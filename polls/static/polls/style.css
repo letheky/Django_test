@@ -1,0 +1,7 @@
+li a {
+    color: greenyellow;
+}
+
+li a:visited {
+    color: blue; /* Change the color to blue for visited links */
+}
